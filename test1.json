@@ -15,12 +15,6 @@
     "device_id": "ed336ccb315a2994",
     "key": "Asadi",
     "expirydate": "09-10-2028",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "ed336ccb315a2994",
-    "key": "Asadi",
-    "expirydate": "09-10-2028",
     "Allowoffline": false
   }
 ]
